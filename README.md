@@ -33,26 +33,9 @@
 - **[📬 Contact & Support](https://github.com/K-M19/ButAa-Prospecting-Macro/tree/main?tab=readme-ov-file#-contact--support)**
   
 ## ⚙️ Roblox Settings
-- Roblox Font: Default (Need!!)
-- Roblox language: English (Need!!)
 - Roblox must be in windowed mode — fullscreen will cause 100% errors.
   >If you're in fullscreen and don't know how to switch to windowed mode, just press F11.
 - Microsoft Store Roblox is not supported.
-
-<details open>
-<summary>How do I set Roblox language?</summary>
-<br>
-<h3>1: Click More</h3>
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Prospecting-Macro/refs/heads/main/IMG/Setting/1.jpg" width="420"/>
-<h3>2: Click Settings</h3>
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Prospecting-Macro/refs/heads/main/IMG/Setting/2.png" width="420"/>
-<h3>3: Account Info</h3>
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Prospecting-Macro/refs/heads/main/IMG/Setting/3.png" width="420"/>
-<h3>4: Set English</h3>
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Prospecting-Macro/refs/heads/main/IMG/Setting/4.png" width="420"/>
-<h3>5: Set language in game</h3>
-  <img src="https://raw.githubusercontent.com/K-M19/ButAa-Prospecting-Macro/refs/heads/main/IMG/Setting/In%20Game%20Setting.png" width="420"/>
-</details>
 
 ## ⚙️ Bloxstrap & Fishstrap & Client Settings
 - **Bloxstrap & Fishstrap**
