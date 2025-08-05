@@ -90,16 +90,11 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## 🎥 Tutorial
 
-- 📺 [Watch Video](https://youtu.be/RpFyU5UpYE8)
-
 ### ⌨️ Hotkeys
 | Key | Action |
 | --- | ------ |
 | F5  | Start  |
 | F6  | Reload/Stop |
-
-> [!WARNING]  
-> HotKey can't save config!.
 
 ### 📦Macro Features
 
