@@ -98,6 +98,12 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ### 📦Macro Features
 
+| Features | Action |
+| --- | ------ |
+| **Auto-Shake**  | Done. |
+| **Auto-Deposit**  | Done. |
+| **Auto-Sell**  | Soon. |
+| **Webhook-Checker**  | Soon. |
 
 
 ## 📬 Contact & Support
