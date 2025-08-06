@@ -90,6 +90,9 @@ Alternatively, you can use Command Prompt with administrator privileges and run 
 
 ## 🎥 Tutorial
 
+### ⚙️ Game-Settings
+<img src="https://raw.githubusercontent.com/K-M19/ButAa-Prospecting-Macro/refs/heads/main/IMG/Setting/Game_Settings.png" width="420"/>
+
 ### ⌨️ Hotkeys
 | Key | Action |
 | --- | ------ |
